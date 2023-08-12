@@ -4,4 +4,4 @@ This Jupyter Notebook aims to elucidate concepts related to Object-Oriented Prog
 
 Please feel at liberty to clone this repository and peruse the notebook at your convenience. It is anticipated that the contents herein will provide valuable insights to aid you in your Python journey.
 
-I am wishing you productive coding ahead!
+Wishing you productive coding ahead!
