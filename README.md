@@ -10,6 +10,6 @@ To facilitate this process, kindly execute the subsequent command within your te
 
 `pip install -r requirements.txt`
 
-This command will ensure the automated installation of all stipulated dependencies.
+This command will ensure the automated installation of all stipulated dependencies. It is important to note this command will only work if you are in the root directory, else you can replace `requirements.txt` with your subjective directory for the file.
 
 Wishing you productive coding ahead!
